@@ -1,2 +1,19 @@
+
 quarter: test-04
+
 key_team_data: 13w3GfuDfejMzWFDVE1FbCj7Uiwx-n5r9xAwR_B_04aI
+
+key_team_folder: 1o9dArE2e3jGcnSu5N3Avgv2Ep6qCZKHL
+
+# Googlesheet key with question summary data
+key_questions_summary: "1QKYd87BiW320wqCgbiEFFtXFl_eQ4vjYHdnOdXsZdrA"
+
+key_feedback_anon: "1ncg3Oh6SosyYgEQWoAwAgB0yas-OFId_H__vCybPUyI"
+
+key_bugs_anon: "1Ee1YXf7dmq4ESSS6gfsPZSABZbR8-yq3BUQj_GvfWT8"
+
+# Link for Notes 1
+link_notes_1: "After you finish this task, please complete [Notes on Task - Part 1](https://forms.gle/7mQiBwWpf6BWUUhS6)."
+
+# Link for Notes 2
+link_notes_2: "After you understand the solution, please complete [Notes on Task - Part 2](https://forms.gle/2hDCDfyzmddySggs7)."
